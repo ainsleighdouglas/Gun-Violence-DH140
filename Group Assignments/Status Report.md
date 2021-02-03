@@ -2,9 +2,15 @@
 [Project Proposal](https://github.com/ainsleighdouglas/Gun-Violence-DH140/blob/main/Group%20Assignments/ProjectProposal.md)
 
 ### Roles
-Stacy - In chanrge of data curation, data visualizations, and write up for Texas
+Stacy - Texas
+- data curation 
+- data visualizations 
+- write up
 
-Ainsleigh - In chanrge of data curation, data visualizations, and write up for Illinois
+Ainsleigh - Illinois
+- data curation 
+- data visualizations 
+- write up
 
 ### Status Update
 Our group is overall working well! We have weekly meetings and have been updating each other in between. Each week we work to refine our research and explore our respective areas further.
