@@ -13,11 +13,26 @@ Our group is overall working well! We have weekly meetings and have been updatin
 
 [Illinois income - Census Data](https://censusreporter.org/data/table/?table=B19001&geo_ids=04000US17,01000US,050|04000US17&primary_geo_id=04000US17)
 
+- Breaks down income of people in Illinois by counties
+
 [Illinois Education Attainment - Census Data](https://censusreporter.org/data/table/?table=B15002&geo_ids=04000US17,050|04000US17&primary_geo_id=04000US17)
+
+- Breakes down educational attinment of males and females throughout Illinois by counties.
 
 [Texas Income - Census Data](https://censusreporter.org/data/table/?table=B19001&geo_ids=01000US,04000US48,050|04000US48&primary_geo_id=04000US48)
 
+- Breaks down income of people in Texas by counties
+
 [Texas Education Attainment - Census Data](https://censusreporter.org/data/table/?table=B15002&geo_ids=04000US48,050|04000US48&primary_geo_id=04000US48)
 
+- Breakes down educational attinment of males and females throughout Texas by counties.
+
 ### Concerns
-Some of our minor concerns are whether our data visualizations are interesting enough, and we worry if our two selected states will vary enough from each other. However, what poses greater concern is we are too committed to including a sentiment analysis when not necessary, or if we are even able to compile a data set of tweets to begin with. 
+
+Minor concerns:
+- Our data visualizations not being visually interesting
+- Will the selected states vary enough from each other
+
+Major concerns:
+- Is us wanting a sentiment analysis going to strengthen our research or is it us trying really hard to incorporate it 
+- How we will compile a dataset of tweets about guns in each state at given years
