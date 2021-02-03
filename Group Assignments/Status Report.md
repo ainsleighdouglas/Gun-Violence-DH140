@@ -5,12 +5,12 @@
 Stacy - Texas
 - data curation 
 - data visualizations 
-- write up
+- write-up
 
 Ainsleigh - Illinois
 - data curation 
 - data visualizations 
-- write up
+- write-up
 
 ### Status Update
 Our group is overall working well! We have weekly meetings and have been updating each other in between. Each week we work to refine our research and explore our respective areas further.
