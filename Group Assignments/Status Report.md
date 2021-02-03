@@ -1,4 +1,4 @@
-# Gun Violence 
+# Gun Violence in The United States 
 [Project Proposal](https://github.com/ainsleighdouglas/Gun-Violence-DH140/blob/main/Group%20Assignments/ProjectProposal.md)
 
 ### Roles
