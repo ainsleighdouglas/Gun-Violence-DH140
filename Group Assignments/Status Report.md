@@ -1,5 +1,5 @@
 # Gun Violence 
-[Project Proposal]
+[Project Proposal](https://github.com/ainsleighdouglas/Gun-Violence-DH140/blob/main/Group%20Assignments/ProjectProposal.md)
 
 ### Roles
 Stacy - In chanrge of data curation, data visualizations, and write up for Texas
@@ -21,5 +21,3 @@ Our group is overall working well! We have weekly meetings and have been updatin
 
 ### Concerns
 Some of our minor concerns are whether our data visualizations are interesting enough, and we worry if our two selected states will vary enough from each other. However, what poses greater concern is we are too committed to including a sentiment analysis when not necessary, or if we are even able to compile a data set of tweets to begin with. 
-
-## Conclusion
