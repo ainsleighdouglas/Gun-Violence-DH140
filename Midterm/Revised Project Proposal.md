@@ -44,7 +44,7 @@ The data sets have date/time and spatial data that can be used as comparative co
 We are both conducting data curation, data visualizations, and write-ups. However, Stacy focuses primarily on Texas and Ainsleigh on Illinois.
 
 ## Conclusion
-The insights we hope to gain from this research project is a better understanding of the appearance of election associated gun violence in the US and how varying gun restrictions by state affect the outcome. Looking at sentiments, like nationalism, and their association with gun related incidents will help us better understand why the trends change over time. Overall, understanding the nature of trends associated with gun related incidents will help us and others navigate possibilities of prevention and like solutions.
+The insights we hope to gain from this research project is a better understanding of the appearance of election associated gun violence in the US and how varying gun restrictions by state affect the outcome. Looking at sentiments, like nationalism, and their association with gun related incidents will help us better understand why the trends change over time. Overall, understanding the nature of trends associated with gun related incidents will help us and others navigate possibilities of prevention and solutions.
 
 ## [Midterm](https://github.com/ainsleighdouglas/Gun-Violence-DH140) Links:
 - Accidental Deaths in Texas and Illinois (Charts)- [GitHub](https://github.com/ainsleighdouglas/Gun-Violence-DH140/blob/main/Midterm/Accidental%20Deaths%20in%20Texas%20and%20Illinois%20(1).ipynb) & [JupyterHub](https://jupyter.idre.ucla.edu/user/scv143@ucla.edu/notebooks/21W-DH140/Accidental%20Deaths%20in%20Texas%20and%20Illinois.ipynb#)
