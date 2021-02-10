@@ -41,9 +41,9 @@ We are both conducting data curation, data visualizations, and write-ups. Howeve
 ## Conclusion
 The insights we hope to gain from this research project is a better understanding of the appearance of election associated gun violence in the US and how varying gun restrictions by state affect the outcome. Looking at sentiments, like nationalism, and their association with gun related incidents will help us better understand why the trends change over time. Overall, understanding the nature of trends associated with gun related incidents will help us and others navigate possibilities of prevention and like solutions.
 
-## [Midterm] (https://github.com/ainsleighdouglas/Gun-Violence-DH140) Links:
-- Accidental Deaths in Texas and Illinois (Charts)- [GitHub] (https://github.com/ainsleighdouglas/Gun-Violence-DH140/blob/main/Midterm/Accidental%20Deaths%20in%20Texas%20and%20Illinois%20(1).ipynb) & [JupyterHub](https://jupyter.idre.ucla.edu/user/scv143@ucla.edu/notebooks/21W-DH140/Accidental%20Deaths%20in%20Texas%20and%20Illinois.ipynb#)
-- Income & Education Census Data (Maps)- [GitHub] (https://github.com/ainsleighdouglas/Gun-Violence-DH140/blob/main/Midterm/Socioeconomic%20Data%20in%20Illinois%20and%20Texas.ipynb) & [JupyterHub] (https://jupyter.idre.ucla.edu/user/ainsleigh.douglas@gmail.com/notebooks/Socioeconomic%20Data%20in%20Illinois%20and%20Texas.ipynb#)
+## [Midterm](https://github.com/ainsleighdouglas/Gun-Violence-DH140) Links:
+- Accidental Deaths in Texas and Illinois (Charts)- [GitHub](https://github.com/ainsleighdouglas/Gun-Violence-DH140/blob/main/Midterm/Accidental%20Deaths%20in%20Texas%20and%20Illinois%20(1).ipynb) & [JupyterHub](https://jupyter.idre.ucla.edu/user/scv143@ucla.edu/notebooks/21W-DH140/Accidental%20Deaths%20in%20Texas%20and%20Illinois.ipynb#)
+- Income & Education Census Data (Maps)- [GitHub](https://github.com/ainsleighdouglas/Gun-Violence-DH140/blob/main/Midterm/Socioeconomic%20Data%20in%20Illinois%20and%20Texas.ipynb) & [JupyterHub](https://jupyter.idre.ucla.edu/user/ainsleigh.douglas@gmail.com/notebooks/Socioeconomic%20Data%20in%20Illinois%20and%20Texas.ipynb#)
 - [Project Presentation](https://docs.google.com/presentation/d/1YIpfdQkH2GQ80nUbzrRL_EXUCOvf-ZRy_OGpm7B-nc0/edit?usp=sharing)
 
 
