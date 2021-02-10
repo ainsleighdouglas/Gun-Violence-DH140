@@ -18,13 +18,18 @@ Again, we aim to investigate within the United States, specifically in the state
 
 [Illinois Income - Census data](https://censusreporter.org/data/table/?table=B19001&geo_ids=04000US17,01000US,050|04000US17&primary_geo_id=04000US17)
 
-- 
-- 
+- breakes down data of statewide income by county
+- this data is of people making less than $10,000 and more than $200,000
 
 [Illinois Education Attainment - Census data](https://censusreporter.org/data/table/?table=B19001&geo_ids=04000US17,01000US,050|04000US17&primary_geo_id=04000US17)
 
 - breakes down education levels of attainment for males and females
 - offers this information only for counties in Illinois
+
+[Texas Income - Census data](https://censusreporter.org/data/table/?table=B19001&geo_ids=01000US,04000US48,050|04000US48&primary_geo_id=04000US48)
+
+- breakes down data of statewide income by county
+- this data is of people making less than $10,000 and more than $200,000
 
 [Texas Education Attainment - Census data](https://censusreporter.org/data/table/?table=B15002&geo_ids=04000US48,050|04000US48&primary_geo_id=04000US48)
 
@@ -35,7 +40,7 @@ Again, we aim to investigate within the United States, specifically in the state
 ### Visualizations
 The data sets have date/time and spatial data that can be used as comparative components to provide definitive answers to differences in gun-related incidents. The spatial data can be best explored by using map elements to track the concentration of gun violence incidents across the US. To supplement the mapping graphics we would apply a comparative element to show the magnitude of incidents during election years and off years. In terms of design, a heat map or Kepler map would be visually inviting to show concentration. The relationship of location to the incident can be used to explain other inquiries or correlations as to why there is a higher concentration. It is also essential to analyze the types of gun violence and their relationship to election years. A pie chart could be beneficial to show the different kinds of gun violence and their measure per year. Additionally, tracking trends over the span of multiple years and comparing those trends to different candidates moving in and out of office will produce data to relate back to social media platforms’ sentiments. A two-category histogram can also be used to compare the span of political events, over time, in Texas and Illinois, in which the width would vary according to gun violence magnitude. Overall the visualizations would illustrate trends in gun-related incidents over the span of the political calendars in the US.
 
-###Roles
+### Roles
 We are both conducting data curation, data visualizations, and write-ups. However, Stacy focuses primarily on Texas and Ainsleigh on Illinois.
 
 ## Conclusion
